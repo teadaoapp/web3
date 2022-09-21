@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d216612"],{c1e3:function(a){a.exports=JSON.parse('["function price() external view returns(uint256)","function batchSafeTransferFrom(address tokenAddr, address[] calldata to, uint256[] calldata value) external payable","function batchSafeSendETH(address[] calldata to, uint256[] calldata value) external payable"]')}}]);
+//# sourceMappingURL=chunk-2d216612.ed7557a8.js.map
