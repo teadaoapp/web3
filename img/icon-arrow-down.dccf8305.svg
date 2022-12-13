@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="4px" viewBox="0 0 8 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>dd_icon</title>
+    <g id="page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Markeplace" transform="translate(-282.000000, -58.000000)" fill="#7F7F7F" fill-rule="nonzero">
+            <g id="marshalling-16">
+                <path d="M286.633215,61.7836482 L289.836635,58.8842273 C290.020513,58.7177852 290.051746,58.4936864 289.917212,58.3060687 C289.782679,58.1184511 289.505686,57.9998165 289.20259,58 L282.796746,58 C282.49377,58 282.217007,58.1186922 282.08264,58.3062744 C281.948273,58.4938566 281.979559,58.7178509 282.163365,58.8842273 L285.366785,61.7836482 C285.517504,61.9199991 285.75165,62 286,62 C286.24835,62 286.482495,61.9199991 286.633215,61.7836482 L286.633215,61.7836482 Z" id="dd_icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

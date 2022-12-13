@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>search_icon</title>
+    <g id="page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="details-1" transform="translate(-532.000000, -333.000000)">
+            <g id="search_icon" transform="translate(532.000000, 333.000000)">
+                <rect id="rect" x="0" y="0" width="16" height="16"></rect>
+                <path d="M7,0 C10.8659932,0 14,3.13400675 14,7 C14,8.7003211 13.3937669,10.2590489 12.3856562,11.4718279 L14.767767,13.8535534 C15.1582912,14.2440777 15.1582912,14.8772427 14.767767,15.267767 C14.3772427,15.6582912 13.7440777,15.6582912 13.3535534,15.267767 L10.8998887,12.8138615 C9.78541374,13.5629194 8.4437497,14 7,14 C3.13400675,14 0,10.8659932 0,7 C0,3.13400675 3.13400675,0 7,0 Z M7,2 C4.23857625,2 2,4.23857625 2,7 C2,9.76142375 4.23857625,12 7,12 C9.76142375,12 12,9.76142375 12,7 C12,4.23857625 9.76142375,2 7,2 Z" id="rect_comb" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
